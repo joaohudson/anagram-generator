@@ -5,7 +5,7 @@ import br.com.anagram.generator.utils.AnagramUtils;
 import java.util.Scanner;
 import java.util.Set;
 
-import static br.com.anagram.generator.constants.PatternConstantes.ONLY_LETTERS;
+import static br.com.anagram.generator.constants.PatternConstants.ONLY_LETTERS;
 
 public class Main {
 	public static void main(String[] args) {
